@@ -1,0 +1,57 @@
+{
+ "video" : [
+     {
+    "titolo" : "titolo1",
+    "durata" : 40,
+    "nome_file" : "assets/1.mp4",
+    "descrizione" : "bla bla bla"
+    },
+    {
+    "titolo" : "titolo2",
+    "durata" : 6,
+    "nome_file" : "assets/2.mp4",
+    "descrizione" : ""
+    },
+    {
+    "titolo" : "titolo3",
+    "durata" : 4,
+    "nome_file" : "assets/3.mp4",
+    "descrizione" : "vide"
+    },
+    {
+    "titolo" : "titolo4",
+    "durata" : 1,
+    "nome_file" : "assets/4.mp4",
+    "descrizione" : "vide"
+    },
+    {
+    "titolo" : "titolo5",
+    "durata" : 3,
+    "nome_file" : "assets/5.mp4",
+    "descrizione" : "vide"
+    },
+    {
+    "titolo" : "titolo6",
+    "durata" : 12,
+    "nome_file" : "assets/6.mp4",
+    "descrizione" : "vide"
+    },
+    {
+    "titolo" : "titolo7",
+    "durata" : 50,
+    "nome_file" : "assets/7.mp4",
+    "descrizione" : "vide"
+    },
+    {
+    "titolo" : "titolo8",
+    "durata" : 30,
+    "nome_file" : "assets/8.mp4",
+    "descrizione" : "vide"
+    },
+    {
+    "titolo" : "titolo9",
+    "durata" : 40,
+    "nome_file" : "assets/3.mp4",
+    "descrizione" : "vide"
+    } ]
+}
